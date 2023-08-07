@@ -1,1 +1,1 @@
-# Android-MobDev-BabyBuy
+"Baby Buy" is a user-friendly Android app designed to assist parents in creating and managing a checklist of items they need before and after their baby's birth. The app lets parents add items with descriptions, prices, and pictures. It also offers convenient features like tracking store locations and delegating items. Developed using Android Studio and Java, the app employs the Room Persistence Library for smooth database management. It aims to simplify and enhance the shopping experience for new parents.
